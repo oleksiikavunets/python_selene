@@ -1,0 +1,4 @@
+[
+  "tests/test_login.py::test_admin_can_login",
+  "tests/test_users.py::test_can_add_new_user"
+]
